@@ -1,0 +1,8 @@
+{
+  "name": "Baby Nutri",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "5ed5718f"
+}

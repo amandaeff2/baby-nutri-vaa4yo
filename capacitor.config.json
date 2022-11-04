@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Baby Nutri",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
